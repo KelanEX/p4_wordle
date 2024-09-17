@@ -1,4 +1,4 @@
-
+import random
 possible_words = ["great", "swift", "slime", "break", "quake"]
 
 
